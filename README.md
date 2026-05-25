@@ -82,23 +82,7 @@ class Sunandha:
 </p>
 
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" width="48"/>
-</p>
-
----
-
-### 🧠 LLMs / AI Agents / RAG
-
-<p align="center">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48"/>
-</p>
-
-<p align="center">
-  LangChain • LangGraph • GraphRAG • RAG • NLP • AI Agents • LLM Evals
+  🧠 LangChain • LangGraph • GraphRAG • RAG • NLP • LLM Evals • AI Agents
 </p>
 
 ---
@@ -110,7 +94,7 @@ class Sunandha:
 </p>
 
 <p align="center">
-  Vertex AI • Cloud Run • Document AI
+  ☁️ Vertex AI • Cloud Run • Document AI
 </p>
 
 ---
@@ -122,7 +106,7 @@ class Sunandha:
 </p>
 
 <p align="center">
-  Vector Databases • Knowledge Graphs
+  🗂️ Vector Databases • Knowledge Graphs
 </p>
 
 ---
@@ -130,9 +114,11 @@ class Sunandha:
 ### 📊 Analytics / Visualization
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=tableau" />
+</p>
+
+<p align="center">
+  📈 Power BI • Looker Studio
 </p>
 
 ---
