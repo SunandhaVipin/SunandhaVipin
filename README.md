@@ -172,29 +172,12 @@ class Sunandha:
 
 ## ✨ Featured Projects
 
-<p align="center">
-
-  <a href="https://github.com/SunandhaVipin/Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS" />
-  </a>
-
-  <a href="https://github.com/SunandhaVipin/MentalHealthcare-Utilization-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=MentalHealthcare-Utilization-Analysis" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/SunandhaVipin/Store-Sales-Time-Series-Forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=Store-Sales-Time-Series-Forecasting" />
-  </a>
-
-  <a href="https://github.com/SunandhaVipin/MediRisk-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=MediRisk-Agent" />
-  </a>
-
-</p>
+| Project | What's happening |
+|---|---|
+| 🫀 **[Intelligent Health Monitoring & Heart Attack Prediction (AWS)](https://github.com/SunandhaVipin/Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS)** | Cloud-based health analytics pipeline using AWS S3, EMR/Spark, Athena, and SageMaker with XGBoost-based risk scoring and alerting. |
+| 🧠 **[Mental Health Care Utilization Analysis](https://github.com/SunandhaVipin/MentalHealthcare-Utilization-Analysis)** | U.S. Census Household Pulse Survey analysis using Python, SQL, regression, classification, and hypothesis testing to study healthcare access disparities. |
+| 📈 **[Store Sales Time Series Forecasting](https://github.com/SunandhaVipin/Store-Sales-Time-Series-Forecasting)** | End-to-end sales forecasting pipeline using time series modeling and ML. |
+| 🩺 **[MediRisk Agent](https://github.com/SunandhaVipin/MediRisk-Agent)** | AI healthcare assistant for patient document analysis and risk insights. |
 
 ---
 
