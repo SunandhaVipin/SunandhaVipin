@@ -86,22 +86,12 @@ class Sunandha:
 ### 🤖 AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  &nbsp;&nbsp;
-  
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ff85c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-ff69b4?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-db7093?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-ff99cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLTK-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
 ---
@@ -109,34 +99,12 @@ class Sunandha:
 ### 🧠 LLMs / AI Agents / RAG
 
 <p align="center">
-
-  <!-- LangChain -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <!-- LangGraph -->
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <!-- OpenAI -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <!-- Gemini -->
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemini-color.png" width="48"/>
-
-  &nbsp;&nbsp;
-
-  <!-- Vector DB -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weaviate.svg" width="48"/>
-
-</p>
-
-<p align="center">
-  GraphRAG • RAG • NLP • AI Agents • LLM Evals • Prompt Engineering
+  <img src="https://img.shields.io/badge/LangChain-ff85c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-ff99cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-db7093?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphRAG-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Evals-ff85c1?style=for-the-badge" />
 </p>
 
 ---
@@ -177,11 +145,9 @@ class Sunandha:
 ### 📊 Analytics / Visualization
 
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
-  &nbsp;&nbsp;
-  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" width="48"/>
+  <img src="https://img.shields.io/badge/Tableau-db7093?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-ff85c1?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-ff99cc?style=for-the-badge" />
 </p>
 
 ---
