@@ -175,11 +175,11 @@ class Sunandha:
 <p align="center">
 
   <a href="https://github.com/SunandhaVipin/Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS" />
   </a>
 
   <a href="https://github.com/SunandhaVipin/MentalHealthcare-Utilization-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=MentalHealthcare-Utilization-Analysis&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=MentalHealthcare-Utilization-Analysis" />
   </a>
 
 </p>
@@ -187,11 +187,11 @@ class Sunandha:
 <p align="center">
 
   <a href="https://github.com/SunandhaVipin/Store-Sales-Time-Series-Forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=Store-Sales-Time-Series-Forecasting&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=Store-Sales-Time-Series-Forecasting" />
   </a>
 
   <a href="https://github.com/SunandhaVipin/MediRisk-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=MediRisk-Agent&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunandhaVipin&repo=MediRisk-Agent" />
   </a>
 
 </p>
