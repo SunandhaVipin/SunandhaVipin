@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  AI Engineer • Data Scientist • I develop systems because I'm overly curious, with emotional support from copious amounts of iced tea.
+  AI Engineer • Data Scientist • (Overly) curious, goal-oriented, with emotional support from copious amounts of iced tea.
 </p>
 
 ---
@@ -53,7 +53,7 @@ class Sunandha:
 
 - 🌍 **NomadAI** — AI-powered travel planner
 - 🩺 **MediRisk Agent** — healthcare AI assistant
-- 📚 **Research Paper GraphRAG Pipelines**
+
 
 ---
 
@@ -74,36 +74,6 @@ class Sunandha:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SunandhaVipin&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SunandhaVipin&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunandhaVipin&layout=compact&theme=radical&hide_border=true&title_color=ff69b4" />
-</p>
-
----
-
-## 💻 Current Status
-
-```bash
-sunandha@github:~$ system_status
-
-building_ai_projects      ██████████ 100%
-debugging                 ██████████ 100%
-sleep_schedule            ██░░░░░░░░ 20%
-touching_grass            █░░░░░░░░░ 10%
-pretending_everything_ok  ████████░░ 80%
-```
-
----
-
 ## ✨ Featured Projects
 
 | Project | Description |
@@ -121,6 +91,20 @@ pretending_everything_ok  ████████░░ 80%
 - If I'm not crashing out over bugs, I'm either cooking up a storm or curled up with a book.
 - Baking teaches me emotional self-reliance.
 - Yes, the repo is pink. This is a kind request to get used to it.
+
+---
+
+## 💻 Current Status
+
+```bash
+sunandha@github:~$ system_status
+
+building_ai_projects      ██████████ 100%
+debugging                 ██████████ 100%
+sleep_schedule            ██░░░░░░░░ 20%
+touching_grass            █░░░░░░░░░ 10%
+pretending_everything_ok  ████████░░ 80%
+```
 
 ---
 
