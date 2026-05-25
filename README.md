@@ -19,6 +19,7 @@ class Sunandha:
     def __init__(self):
         self.role = "AI Engineer / Data Scientist"
         self.education = "M.S. Data Science @ Arizona State University"
+
         self.interests = [
             "LLMs",
             "AI Agents",
@@ -40,7 +41,14 @@ class Sunandha:
 ## 🩷 About Me
 
 - 🎓 M.S. Data Science student at Arizona State University
-- 🧠 Interested in LLMs, AI Agents, NLP, GraphRAG, and Cloud AI
+
+- 🧠 Interested in:
+  - LLMs
+  - AI Agents
+  - NLP
+  - GraphRAG
+  - Cloud AI
+
 - 💅 I like building systems that are:
   - intelligent
   - scalable
@@ -53,14 +61,13 @@ class Sunandha:
 
 - 🌍 **NomadAI** — AI-powered travel planner
 - 🩺 **MediRisk Agent** — healthcare AI assistant
-
+- 📚 **Research Paper GraphRAG** pipelines
 
 ---
 
-```md id="mjxj3n"
-## 🛠 Tech stack
+## 🛠 Tech Stack
 
-### 👩‍💻 Programming languages
+### 👩‍💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,html,css,bash" />
@@ -76,7 +83,7 @@ class Sunandha:
 
 ---
 
-### 🤖 AI/ML
+### 🤖 AI / ML
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-ff85c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -89,7 +96,7 @@ class Sunandha:
 
 ---
 
-### LLMs/AI Agents/RAG
+### 🧠 LLMs / AI Agents / RAG
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-ff85c1?style=for-the-badge" />
@@ -102,7 +109,7 @@ class Sunandha:
 
 ---
 
-### Cloud/ Deployment
+### ☁️ Cloud / Deployment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
@@ -119,7 +126,7 @@ class Sunandha:
 
 ---
 
-### Databases/ Vector Stores
+### 🗄 Databases / Vector Stores
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
@@ -135,7 +142,7 @@ class Sunandha:
 
 ---
 
-### Analytics / Visualization
+### 📊 Analytics / Visualization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-db7093?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -145,7 +152,7 @@ class Sunandha:
 
 ---
 
-### Frameworks/ Tools
+### 🧰 Frameworks / Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=streamlit,git,github,figma,vscode,postman,linux" />
@@ -159,8 +166,6 @@ class Sunandha:
   <img src="https://img.shields.io/badge/Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-ffb6c1?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-```
-
 
 ---
 
@@ -180,6 +185,8 @@ class Sunandha:
 - Reading teaches me optimistic delusion. It comes in handy with ideating and building.
 - If I'm not crashing out over bugs, I'm either cooking up a storm or curled up with a book.
 - Baking teaches me emotional self-reliance.
+- Glass painting is basically manual image generation.
+- Quilling requires patience. Debugging requires delusion. I contain both.
 - Yes, the repo is pink. This is a kind request to get used to it.
 
 ---
@@ -204,6 +211,7 @@ pretending_everything_ok  ████████░░ 80%
   <a href="mailto:sunavipindev@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/sunandha-vipin-dev-kumar-120902162">
     <img src="https://img.shields.io/badge/LinkedIn-db7093?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -212,7 +220,7 @@ pretending_everything_ok  ████████░░ 80%
 ---
 
 <p align="center">
-  <i>"I build AI systems. Hey, they instill confidence for the character arc."</i>
+  <i>"I build AI systems. Occasionally they build character."</i>
 </p>
 
 <p align="center">
