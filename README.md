@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+/+Data Scientist;fine-tuning+LLMs+and+building+AI+agents;professional+problem+solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+Data Scientist;fine-tuning+LLMs+and+building+AI+agents;professional+problem+solver" />
 
 </p>
 
