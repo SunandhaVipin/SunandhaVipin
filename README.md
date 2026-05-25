@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Sunandha%20Vipin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20Cloud%20AI%20%7C%20Data%20Science&descAlignY=58&descSize=18" />
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
+<h1 align="center">₊˚⊹♡ hi, i'm sunandha ♡⊹˚₊</h1>
 
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress;fine-tuning+LLMs+and+building+AI+agents;professional+problem+solver" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=AI+Engineer+in+progress;building+LLMs+and+AI+agents;professional+debugger;turning+caffeine+into+machine+learning;pink+repositories+serious+models" />
 </p>
 
 <p align="center">
-  AI Engineer • Data Scientist • (Overly) curious, goal-oriented, with emotional support from copious amounts of iced tea.
+  🧋 AI Engineer • Data Scientist • Building useful, scalable, and slightly-too-pretty AI systems
 </p>
 
----
+<p align="center">
+  <img src="./assets/pink-divider.png" width="100%" />
+</p>
 
 ```python
 class Sunandha:
     def __init__(self):
         self.role = "AI Engineer / Data Scientist"
         self.education = "M.S. Data Science @ Arizona State University"
-
-        self.interests = [
+        self.focus = [
             "LLMs",
             "AI Agents",
             "GraphRAG",
@@ -39,154 +39,135 @@ class Sunandha:
 
 ---
 
-## 🩷 About Me
+## 🩷 About Me + Currently Building
 
-- 🎓 M.S. Data Science student at Arizona State University
+<table>
+<tr>
+<td width="50%">
 
-- 🧠 Interested in:
-  - LLMs
-  - AI Agents
-  - NLP
-  - GraphRAG
-  - Cloud AI
+### 🩷 About Me
 
+- 🎓 M.S. Data Science student at Arizona State University  
+- 🧠 Interested in LLMs, AI Agents, NLP, GraphRAG, and Cloud AI  
 - 💅 I like building systems that are:
-  - intelligent
-  - scalable
-  - explainable
-  - unnecessarily pretty, preferably pink
+  - intelligent  
+  - scalable  
+  - explainable  
+  - unnecessarily pretty, preferably pink  
+
+</td>
+
+<td width="50%">
+
+### ✨ Currently Building
+
+- 🌍 **NomadAI** — AI-powered travel planner  
+- 🩺 **MediRisk Agent** — healthcare AI assistant  
+- 📚 **Research Paper GraphRAG** — research paper knowledge graph pipeline  
+- 🧠 **LLM Evaluation Projects** — testing model reasoning consistency  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Currently Building
+## 🧠 AI / ML Focus Areas
 
-- 🌍 **NomadAI** — AI-powered travel planner
-- 🩺 **MediRisk Agent** — healthcare AI assistant
-- 📚 **Research Paper GraphRAG** - helping you understand research papers better
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-ff85c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphRAG-ff99cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-db7093?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20AI-ff85c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR%20%2B%20Document%20AI-ff99cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Healthcare%20AI-db7093?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👩‍💻 Programming Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,html,css,mysql,postgres,mongodb,aws,gcp,git,github,figma,docker,fastapi,pytorch,tensorflow,opencv" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ff85c1?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-ff99cc?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-db7093?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
-
----
-
-### 🤖 AI / ML
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-ff85c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-ff69b4?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-db7093?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLTK-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
-
----
-
-### 🧠 LLMs / AI Agents / RAG
-
-<p align="center">
   <img src="https://img.shields.io/badge/LangChain-ff85c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-db7093?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GraphRAG-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Evals-ff85c1?style=for-the-badge" />
-</p>
-
----
-
-### ☁️ Cloud / Deployment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-ff69b4?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-ff85c1?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-db7093?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud_Run-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Document_AI-ffb6c1?style=for-the-badge" />
-</p>
-
----
-
-### 🗄 Databases / Vector Stores
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-ff85c1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-db7093?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Knowledge_Graphs-ff69b4?style=for-the-badge" />
-</p>
-
----
-
-### 📊 Analytics / Visualization
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-db7093?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-ff85c1?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-ff99cc?style=for-the-badge" />
-</p>
-
----
-
-### 🧰 Frameworks / Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=streamlit,git,github,figma,vscode,postman,linux" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-db7093?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-ff69b4?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-ff85c1?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-db7093?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-ff99cc?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-ffb6c1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-ff85c1?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-ff99cc?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-db7093?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-ff69b4?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
 ---
 
 ## ✨ Featured Projects
 
-| Project | What's happening |
-|---|---|
-| 🫀 **[Intelligent Health Monitoring & Heart Attack Prediction (AWS)](https://github.com/SunandhaVipin/Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS)** | Cloud-based health analytics pipeline using AWS S3, EMR/Spark, Athena, and SageMaker with XGBoost-based risk scoring and alerting. |
-| 🧠 **[Mental Health Care Utilization Analysis](https://github.com/SunandhaVipin/MentalHealthcare-Utilization-Analysis)** | U.S. Census Household Pulse Survey analysis using Python, SQL, regression, classification, and hypothesis testing to study healthcare access disparities. |
-| 📈 **[Store Sales Time Series Forecasting](https://github.com/SunandhaVipin/Store-Sales-Time-Series-Forecasting)** | End-to-end sales forecasting pipeline using time series modeling and ML. |
-| 🩺 **[MediRisk Agent](https://github.com/SunandhaVipin/MediRisk-Agent)** | AI healthcare assistant for patient document analysis and risk insights. |
+<table>
+<tr>
+<td width="25%">
+
+### 🧠 Temporal Robustness Testing
+
+Custom benchmark for testing LLM temporal reasoning consistency.
+
+`LLMs` `Evaluation` `Python`
+
+</td>
+
+<td width="25%">
+
+### 🩺 MediRisk Agent
+
+Healthcare document intelligence system with OCR, RAG, entity extraction, risk scoring, and patient Q&A.
+
+`Healthcare AI` `RAG` `NLP`
+
+</td>
+
+<td width="25%">
+
+### 🌍 NomadAI
+
+LLM-powered travel planner with weather, travel advisory, itinerary generation, and suitability scoring.
+
+`AI Agents` `LangGraph` `Streamlit`
+
+</td>
+
+<td width="25%">
+
+### 📚 Research Paper GraphRAG
+
+GraphRAG pipeline for research papers using knowledge graphs, embeddings, and retrieval.
+
+`GraphRAG` `NLP` `Knowledge Graphs`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎀 Side Quests
+## 📊 GitHub Stats
 
-- Reading teaches me optimistic delusion. It comes in handy with ideating and building 
-- If I'm not crashing out over bugs, I'm either cooking up a storm or curled up with a book
-- Baking is my jam. Great way to learn emotional self-reliance, I'm telling you!
-- Yes, the repo is pink. This is a kind request to get used to it.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SunandhaVipin&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SunandhaVipin&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunandhaVipin&layout=compact&theme=radical&hide_border=true&title_color=ff69b4" />
+</p>
 
 ---
 
@@ -204,13 +185,40 @@ pretending_everything_ok  ████████░░ 80%
 
 ---
 
+## 🌱 Currently Exploring
+
+- LangGraph orchestration patterns  
+- Agent memory architectures  
+- LLM evaluation frameworks  
+- AWS AI/ML deployment  
+- Vector databases and hybrid retrieval  
+- Multimodal AI systems  
+
+---
+
+## 🎀 Side Quests
+
+- Reading teaches me optimistic delusion. It comes in handy with ideating and building.  
+- If I'm not crashing out over bugs, I'm either cooking up a storm or curled up with a book.  
+- Baking teaches me emotional self-reliance.  
+- Yes, the repo is pink. This is a kind request to get used to it.  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SunandhaVipin/SunandhaVipin/output/snake.svg" />
+</p>
+
+---
+
 ## 💌 Connect With Me
 
 <p align="center">
   <a href="mailto:sunavipindev@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/sunandha-vipin-dev-kumar-120902162">
     <img src="https://img.shields.io/badge/LinkedIn-db7093?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -219,9 +227,9 @@ pretending_everything_ok  ████████░░ 80%
 ---
 
 <p align="center">
-  <i>"I build AI systems. Hey, it gives me confidence for the character arc! "</i>
+  <i>"I build AI systems. Hey, they instill confidence for the character arc."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+  <img src="./assets/footer.png" width="100%" />
 </p>
