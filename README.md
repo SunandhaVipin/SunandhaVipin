@@ -218,7 +218,7 @@ pretending_everything_ok  ████████░░ 80%
 ---
 
 <p align="center">
-  <i>"I build AI systems. Occasionally they build character."</i>
+  <i>"I build AI systems. Hey, it gives me confidence for the character arc! "</i>
 </p>
 
 <p align="center">
