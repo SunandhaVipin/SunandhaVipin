@@ -5,7 +5,9 @@
 <h1 align="center">₊˚⊹♡ hi, i'm sunandha ♡⊹˚₊</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress; fine-tuning+LLMs+and+building+AI+agents; professional+problem+solver" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress;fine-tuning+LLMs+and+building+AI+agents;professional+problem+solver" />
+
 </p>
 
 <p align="center">
@@ -73,25 +75,36 @@ class Sunandha:
   <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,html,css,bash" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ff85c1?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-ff99cc?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-db7093?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
-
 ---
 
 ### 🤖 AI / ML
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-ff85c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-ff69b4?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-db7093?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLTK-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-ff69b4?style=for-the-badge&logo=huggingface&logoColor=white" />
+
+  <!-- TensorFlow -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+
+  <!-- PyTorch -->
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+
+  <!-- OpenCV -->
+  <img src="https://skillicons.dev/icons?i=opencv" />
+
+  &nbsp;&nbsp;
+
+  <!-- HuggingFace -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- scikit-learn -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- NLTK -->
+  <img src="https://www.nltk.org/images/logo.png" width="60"/>
+
 </p>
 
 ---
@@ -99,12 +112,29 @@ class Sunandha:
 ### 🧠 LLMs / AI Agents / RAG
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-ff85c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-db7093?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GraphRAG-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Evals-ff85c1?style=for-the-badge" />
+
+  <!-- LangChain -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- LangGraph -->
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- OpenAI -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Gemini -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemini-color.png" width="48"/>
+
+</p>
+
+<p align="center">
+  GraphRAG • RAG • Prompt Engineering • LLM Evals • AI Agents • NLP
 </p>
 
 ---
@@ -116,12 +146,7 @@ class Sunandha:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-ff69b4?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-ff85c1?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-db7093?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud_Run-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Document_AI-ffb6c1?style=for-the-badge" />
+  Vertex AI • Cloud Run • Document AI
 </p>
 
 ---
@@ -133,11 +158,7 @@ class Sunandha:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-ff85c1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-db7093?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-ff99cc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Knowledge_Graphs-ff69b4?style=for-the-badge" />
+  Vector Databases • Knowledge Graphs
 </p>
 
 ---
@@ -145,9 +166,20 @@ class Sunandha:
 ### 📊 Analytics / Visualization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-db7093?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-ff85c1?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker_Studio-ff99cc?style=for-the-badge" />
+
+  <!-- Tableau -->
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Power BI -->
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="48"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Looker Studio -->
+  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" width="48"/>
+
 </p>
 
 ---
@@ -156,15 +188,6 @@ class Sunandha:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=streamlit,git,github,figma,vscode,postman,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-ff69b4?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-ff85c1?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-db7093?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-ff99cc?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-ff69b4?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-ffb6c1?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
