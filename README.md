@@ -34,7 +34,7 @@ class Sunandha:
 
     def life_goal(self):
         return "make AI useful and aesthetically pleasing"
-````
+```
 
 ---
 
