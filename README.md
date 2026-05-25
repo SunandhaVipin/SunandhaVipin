@@ -5,7 +5,7 @@
 <h1 align="center">₊˚⊹♡ hi, i'm sunandha ♡⊹˚₊</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress;building+LLMs+and+AI+agents;professional+debugger;turning+caffeine+into+machine+learning;pink+repositories+serious+models" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI+Engineer+in+progress; fine-tuning+LLMs+and+building+AI+agents; professional+problem+solver" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ class Sunandha:
 
 - 🌍 **NomadAI** — AI-powered travel planner
 - 🩺 **MediRisk Agent** — healthcare AI assistant
-- 📚 **Research Paper GraphRAG** pipelines
+- 📚 **Research Paper GraphRAG** - helping you understand research papers better
 
 ---
 
@@ -171,22 +171,20 @@ class Sunandha:
 
 ## ✨ Featured Projects
 
-| Project | Description |
+| Project | What's happening |
 |---|---|
-| 🧠 Temporal Robustness Testing | Benchmarking LLM reasoning consistency |
-| 🩺 MediRisk Agent | Healthcare AI assistant for patient risk analysis |
-| 🌍 NomadAI | LLM-powered travel planning and suitability scoring |
-| 📚 Research Paper GraphRAG | Knowledge graph and RAG pipeline for research papers |
+| 🫀 **[Intelligent Health Monitoring & Heart Attack Prediction (AWS)](https://github.com/SunandhaVipin/Intelligent-Healthcare-Monitoring-and-Heart-Attack-Prediction-AWS)** | Cloud-based health analytics pipeline using AWS S3, EMR/Spark, Athena, and SageMaker with XGBoost-based risk scoring and alerting. |
+| 🧠 **[Mental Health Care Utilization Analysis](https://github.com/SunandhaVipin/MentalHealthcare-Utilization-Analysis)** | U.S. Census Household Pulse Survey analysis using Python, SQL, regression, classification, and hypothesis testing to study healthcare access disparities. |
+| 📈 **[Store Sales Time Series Forecasting](https://github.com/SunandhaVipin/Store-Sales-Time-Series-Forecasting)** | End-to-end sales forecasting pipeline using time series modeling and ML. |
+| 🩺 **[MediRisk Agent](https://github.com/SunandhaVipin/MediRisk-Agent)** | AI healthcare assistant for patient document analysis and risk insights. |
 
 ---
 
 ## 🎀 Side Quests
 
-- Reading teaches me optimistic delusion. It comes in handy with ideating and building.
-- If I'm not crashing out over bugs, I'm either cooking up a storm or curled up with a book.
-- Baking teaches me emotional self-reliance.
-- Glass painting is basically manual image generation.
-- Quilling requires patience. Debugging requires delusion. I contain both.
+- Reading teaches me optimistic delusion. It comes in handy with ideating and building 
+- If I'm not crashing out over bugs, I'm either cooking up a storm or curled up with a book
+- Baking is my jam. Great way to learn emotional self-reliance, I'm telling you!
 - Yes, the repo is pink. This is a kind request to get used to it.
 
 ---
